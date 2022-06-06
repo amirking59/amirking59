@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from IRAN, qom</h3>
 
 <h3 align="left">Stats:</h3>
-<div style="display: flex; justify-content: space-between; width: 100%">
+<div style="display: flex; justify-content: space-between; width: 100%: gap: 1rem">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirking59&show_icons=true&locale=en&layout=compact" alt="amirking59" /></p>
       <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirking59&show_icons=true&locale=en" alt="amirking59" /></p>
   </div>
