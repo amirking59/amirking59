@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amir Hossein Rezaei</h1>
-<h3 align="center">A passionate frontend developer from IRAN, qom</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 <h3 align="left">Stats:</h3>
 <div style="display: flex; justify-content: space-between; width: 100%: gap: 1rem;flex-direction: column;">
